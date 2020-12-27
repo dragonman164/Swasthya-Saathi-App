@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265934566840",
+    "project_id": "real-time-monitoring-system",
+    "storage_bucket": "real-time-monitoring-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265934566840:android:57adf91f6b0725e94fcb4d",
+        "android_client_info": {
+          "package_name": "com.example.real_time_patients_monitor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265934566840-099vp79vr4ol2494em7k7ib9oodlur86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAenxDKoWXP4eKy6ybT0mlrVBQRZfyt8xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265934566840-099vp79vr4ol2494em7k7ib9oodlur86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
