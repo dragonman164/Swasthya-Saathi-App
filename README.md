@@ -21,9 +21,9 @@ Users can view regsitration status of patients by feeding the registration numbe
      <td>User Details Screen</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/1.png" width=270 height=480></td>
-    <td><img src="Screenshots/9.png" width=270 height=480></td>
-    <td><img src="Screenshots/2.png" width=270 height=480></td>
+    <td><img src="https://github.com/dragonman164/Swasthya-Saathi-App/blob/master/Screenshots/1.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/dragonman164/Swasthya-Saathi-App/blob/master/Screenshots/9.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/dragonman164/Swasthya-Saathi-App/blob/master/Screenshots/2.PNG" width=270 height=480></td>
   </tr>
  </table>
 
@@ -35,9 +35,9 @@ Users can view regsitration status of patients by feeding the registration numbe
      <td>Admin Login Screen</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/4.png" width=270 height=480></td>
-    <td><img src="Screenshots/3.png" width=270 height=480></td>
-    <td><img src="Screenshots/5.png" width=270 height=480></td>
+    <td><img src="https://github.com/dragonman164/Swasthya-Saathi-App/blob/master/Screenshots/4.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/dragonman164/Swasthya-Saathi-App/blob/master/Screenshots/3.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/dragonman164/Swasthya-Saathi-App/blob/master/Screenshots/5.PNG" width=270 height=480></td>
   </tr>
  </table>
 
@@ -49,9 +49,9 @@ Users can view regsitration status of patients by feeding the registration numbe
      <td>Update patient details(Temporary)</td>
   </tr>
   <tr>
-    <td><img src="Screenshots/6.png" width=270 height=480></td>
-    <td><img src="Screenshots/7.png" width=270 height=480></td>
-    <td><img src="Screenshots/8.png" width=270 height=480></td>
+    <td><img src="https://github.com/dragonman164/Swasthya-Saathi-App/blob/master/Screenshots/6.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/dragonman164/Swasthya-Saathi-App/blob/master/Screenshots/7.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/dragonman164/Swasthya-Saathi-App/blob/master/Screenshots/8.PNG" width=270 height=480></td>
   </tr>
  </table>
 
